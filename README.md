@@ -8,5 +8,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FukuHiro12111&show_icons=true&theme=radical)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FukuHiro12111a&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FukuHiro12111&hide=contribs,prs)
 
