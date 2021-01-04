@@ -6,3 +6,5 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FukuHiro12111)](https://github.com/FukuHiro12111/github-readme-stats)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FukuHiro12111&show_icons=true&theme=radical)
+
