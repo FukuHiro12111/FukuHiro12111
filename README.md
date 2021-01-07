@@ -1,6 +1,6 @@
 # GitHub Profile Summary Cards
 
-## Introduce myself
+## INTRODUCE MYSELF
 I'm in my third year of university.  
 My major is computer system.  
 My lab is autonomous car🚗.
