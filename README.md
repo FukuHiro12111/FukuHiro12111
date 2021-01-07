@@ -7,7 +7,7 @@ My lab is autonomous car🚗.
 
 My Github Record!
 
-[![](https://raw.githubusercontent.com/FukuHiro12111/profile/main/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=radical)
+[![](https://raw.githubusercontent.com/FukuHiro12111/profile/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=radical)
 
 [![](https://raw.githubusercontent.com/FukuHiro12111/profile/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=radical)[![](https://raw.githubusercontent.com/FukuHiro12111/profile/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=radical)
 
