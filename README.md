@@ -5,7 +5,7 @@ My lab is autonomous car🚗.
 
 # GitHub Profile Summary Cards
 
-Github record!
+My Github Record!
 
 [![](https://raw.githubusercontent.com/FukuHiro12111/profile/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
