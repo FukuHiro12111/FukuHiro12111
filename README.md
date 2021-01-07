@@ -1,4 +1,4 @@
-# INTRODUCE MYSELF
+# Introduce Myself
 I'm in my third year of university.  
 My major is computer system.  
 My lab is autonomous car🚗.
