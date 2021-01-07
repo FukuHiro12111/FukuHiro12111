@@ -1,9 +1,9 @@
-# GitHub Profile Summary Cards
-
-## INTRODUCE MYSELF
+# INTRODUCE MYSELF
 I'm in my third year of university.  
 My major is computer system.  
 My lab is autonomous car🚗.
+
+# GitHub Profile Summary Cards
 
 [![](https://raw.githubusercontent.com/FukuHiro12111/profile/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
