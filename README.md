@@ -5,7 +5,7 @@ My lab is autonomous car🚗.
 
 # GitHub Profile Summary Cards
 
-My Github Record!
+__My Github Record!
 
 [![](https://raw.githubusercontent.com/FukuHiro12111/FukuHiro12111/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
